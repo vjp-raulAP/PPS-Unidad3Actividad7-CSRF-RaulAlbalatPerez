@@ -258,6 +258,9 @@ Probamos a ejecuarlo.
 
 ![](imagenes/imagen17.png)
 
+
+![](imagenes/imagen18.png)
+
 Explicación de las correcciones:
 
 - Bloquea todas las solicitudes GET (ya no se puede usar <img> para ataques CSRF).
